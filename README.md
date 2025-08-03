@@ -8,13 +8,11 @@ Atualmente, estou a aprofundar os meus conhecimentos em desenvolvimento backend 
 
 ### 💼 Stack de Tecnologias
 
-| **Linguagens Principais** | **Frameworks & Ecossistemas** | **Bancos de Dados** | **Ferramentas & Soft Skills** |
-|---:---:---:---:---:---:---|---:---:---:---:---:---:---:---|--:---:---:---:---:--|---:---:---:---:---:---:---:---|
-|           Ruby            |          Ruby on Rails        |       MongoDB       |         Git & GitHub          |
-|          Python           |          APIs RESTful         |      MySQL / SQL    |           Docker              |
-|           PHP             |            Sidekiq            |       Mongoid       |    Resolução de Problemas     |
-|        JavaScript         |          HTML5 & CSS3         |          -          |      Colaboração Remota       |
-|           C#              |               -               |          -          |     Documentação Técnica      |
+* **Backend:** Ruby, Ruby on Rails, PHP, Sidekiq, RESTful APIs
+* **Frontend:** HTML5, CSS3, JavaScript, Pico.css
+* **Bancos de Dados:** MongoDB, MySQL, SQL, Mongoid
+* **Ferramentas & DevOps:** Git, GitHub, Docker, WSL 2
+* **Outras Linguagens:** Python, C# 
 
 ---
 
