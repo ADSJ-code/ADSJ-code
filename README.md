@@ -1,6 +1,6 @@
 # André Duarte da Silva Júnior
 
-Technology professional with three years of experience in systems development and data analysis, focused on creating solutions that optimize processes and add value. My approach combines strategic planning with a strong focus on usability and delivering impactful results.
+Technology professional with five years of experience in systems development and data analysis, focused on creating solutions that optimize processes and add value. My approach combines strategic planning with a strong focus on usability and delivering impactful results.
 
 Currently, I am deepening my expertise in backend development with Ruby on Rails and MongoDB, applying my prior experience to build robust, data-driven web applications. Proficient in English and Portuguese.
 
